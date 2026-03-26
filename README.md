@@ -22,5 +22,4 @@ Software Engineering Graduate | 2005-born | English & Chinese Speaker
 
 ### 📫 Connect with me:
 * [LinkedIn](https://linkedin.com/in/lai-tim-meng)
-* [Portfolio/Website](https://your-website.com)
 * Email: [laitimmeng@gmail.com]
