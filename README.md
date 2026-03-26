@@ -1,23 +1,26 @@
-## Hi there 👋
+## Hi there 👋, I'm Lai Tim Meng!
+Software Engineering Graduate | 2005-born | English & Chinese Speaker
+- 🔭 **I’m currently:** Searching for a Software Engineering role where I can build impactful mobile or web solutions.
+- 🌱 **I’m currently learning:** ... and refining my skills in [Insert Tech Stack, e.g., React/Flutter/Node.js].
+- 💻 **I’m currently working on:** [BlueVitals](https://github.com/PurpleDawn5/bluevitals-fyp), a comprehensive management app for saltwater aquarium hobbyists (my Degree Final Year Project).
+- 📚 **Side Quest:** Building a Manhwa/Webtoon tracker to help fans keep up with their favorite series.
 
-- 🔭 I’m currently searching for a job
-- 🌱 I’m currently learning ...
-- I'm currently working on [BlueVitals](https://github.com/PurpleDawn5/bluevitals-fyp), my FYP project for degree
+---
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-<!--
-**PurpleDawn5/PurpleDawn5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack & Tools
 
-Here are some ideas to get you started:
+* **Languages:** Java, Python, C#, SQL, Dart
+* **Frameworks:** React, Flutter
+* **Tools:** Git, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PurpleDawn5&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me:
+* [LinkedIn](https://linkedin.com/in/lai-tim-meng)
+* [Portfolio/Website](https://your-website.com)
+* Email: [laitimmeng@gmail.com]
